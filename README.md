@@ -1,1 +1,2 @@
 # ARATIM
+edited readme
